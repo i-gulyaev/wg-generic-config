@@ -55,7 +55,7 @@ Wireguard configuration is stored into `/extra/wireguard/docker-compose.yml`.
 
 ```
 $ sudo mkdir -p /extra/wireguard
-$ chmod a+rw /extra/wireguard
+$ sudo chmod a+rw /extra/wireguard
 ```
 
 Creat `/extra/wireguard/docker-compose.yml` with the following content:
